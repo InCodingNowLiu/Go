@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75043b13-bd19-4862-a495-5feed352d65c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15/libexec" />
+  <component name="ProjectId" id="1iIhNW6sOIRg6YVyx6Wee4gPGcK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="398" key="#GOROOT" timestamp="1601601005078">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="520" y="398" key="#GOROOT/0.23.1440.877@0.23.1440.877" timestamp="1601601005077" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602138726636">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1602138726636" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1602036356425" />
+    <state x="523" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602045838578">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="523" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1602045838578" />
+    <state x="1901" y="179" key="SettingsEditor" timestamp="1603350048690">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1901" y="179" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900/3360.0.2048.1080@1440.0.1920.1080" timestamp="1603350048690" />
+    <state x="2065" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1603349884154">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2065" y="241" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900/3360.0.2048.1080@1440.0.1920.1080" timestamp="1603349884154" />
+  </component>
+</project>
